@@ -1,5 +1,5 @@
 //Lingli Zou
-//MethodMadness
+//MethodMadnessProject
 public class LZouLib {
 	public static void sumUpTo(int range) 
 	{
